@@ -11,7 +11,7 @@ weight: 2
 - 地点：YouTube live stream
 - 主讲人：蒋宁 (Ning Jiang) Professor of Department of Horticulture at Michigan State University Ph.D., Plant Biology, University of Georgia, 2002
 
-
+![](https://i.imgur.com/mfKuroB.png)
 
 # 中文摘要
 
@@ -26,10 +26,11 @@ weight: 2
 
 # YouTube
 
-
 {{< youtube id="VVvif8CmD7Q" autoplay="false" >}}
 
+# Tencent video
 
+{{< tencent id="u0893sxzjaj" autoplay="false" >}}
 
 # 近期发表文献
 1. Ou, S., Chen, J. and Jiang, N. (2018). Assessing genome assembly quality using the LTR Assembly Index (LAI). Nucleic Acids Research. 46(21):e126.
@@ -39,6 +40,9 @@ weight: 2
 3. Zhao, D., Hamilton, J. P., Vaillancourt, B., Zhang, W., Eizenga, G. C., Cui, Y., Jiang, J., Buell, C. R., and Jiang, N. (2018). The unique epigenetic features of Pack-MULEs and their impact on chromosomal base composition and expression spectrum. Nucleic Acids Research, 46(5):2380-2397.
 
 4. Ou, S., and Jiang, N. (2018). LTR_retriever: A Highly Accurate and Sensitive Program for Identification of Long Terminal Repeat Retrotransposons. Plant Physiology, 176(2), 1410-1422.
+
+###### 海报模板来自于[freepik（starline）](https://www.freepik.com/free-vector/business-brochure-with-colorful-hexagonal-shapes_885237.htm)
+
 
 
 
